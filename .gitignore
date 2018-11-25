@@ -2,3 +2,6 @@
 .envrc
 .ipynb_checkpoints/
 /data
+checkpoint
+*.pkl
+*.ckpt*
